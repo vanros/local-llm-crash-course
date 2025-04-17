@@ -18,8 +18,8 @@ pip install ctransformers chainlit
 ## The Open Orca Dataset
 The dataset on Hugging Face: https://huggingface.co/datasets/Open-Orca/OpenOrca
 
-## Chainlit and Streamlit
- * Chainlit: https://docs.chainlit.io/get-started/overview
+## Chainlit and Streamlit https://docs.chainlit.io/get-started/overview
+ * Chainlit:
  * Streamlit: https://streamlit.io/
 
 ## LangChain
