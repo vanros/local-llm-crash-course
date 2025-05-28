@@ -36,4 +36,4 @@ async def on_chat_start():
 
     cl.user_session.set("message_history", [])
 
-    await cl.Message("Model initialized. How can I help you?").send()
+    await cl.Message("Hello! how can I help you?").send()
